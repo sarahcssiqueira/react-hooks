@@ -1,2 +1,3 @@
-# react-hooks
-Useful customized hooks for react
+# Countdown hook
+
+A useful customized hook for react
